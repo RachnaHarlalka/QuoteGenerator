@@ -56,6 +56,7 @@ body{
     letter-spacing: 4px;
     font-size: 1.5rem;
     margin: 15px 0;
+    text-align: center;
 }
 .btn{
     padding: 15px;
