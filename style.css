@@ -96,9 +96,7 @@ body{
     .btn{
         bottom: 2.4rem;
     }
-    .box-content{
-        /* padding: 20px; */
-    }
+  
 
   } 
 @media screen and (max-width: 400px) {
