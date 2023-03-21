@@ -50,6 +50,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    margin: 10px 0;
 }
 .author{
     letter-spacing: 4px;
@@ -66,8 +67,6 @@ body{
     color: white;
     background-color: rgb(83, 4, 66);
     font-size: large;
-    position: absolute;
-    bottom: 2px;
 }
 .quote{
     font-size: large;
@@ -93,10 +92,9 @@ body{
         width: 70vw;
         height: 55vh;
     }
-    .btn{
-        bottom: 2.4rem;
+    .box-content{
+        padding: 20px;
     }
-  
 
   } 
 @media screen and (max-width: 400px) {
