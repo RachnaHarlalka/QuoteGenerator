@@ -90,8 +90,12 @@ body{
      }
     .box{
         width: 70vw;
-        height: 40vh;
+        height: 55vh;
     }
+    .box-content{
+        padding: 20px;
+    }
+
   } 
 @media screen and (max-width: 400px) {
     
@@ -110,12 +114,15 @@ body{
         text-align: center;
     }
     .box{
-        width: 80vw;
-        height: 45vh;
+        width: 85vw;
+        height: 60vh;
     }
     .btn{
         font-weight: bold;
         font-size: 0.9rem;
+    }
+    .box-content{
+        padding: 20px;
     }
 
   } 
